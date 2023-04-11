@@ -3,7 +3,6 @@ import 'package:google_fonts/google_fonts.dart';
 
 import 'animations/animated_container/src/pages/cuadrado_animado_page.dart';
 
-
 void main() {
   runApp(const MyApp());
 }
@@ -11,11 +10,10 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Animations',
+      title: 'Flutter Screens',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
           primaryColor: const Color(0xFF0e7cfe),
