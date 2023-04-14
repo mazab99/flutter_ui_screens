@@ -3,6 +3,7 @@ import 'package:flutter_ui_screens/screens/slider/slider_home.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import 'animations/animated_container/src/pages/cuadrado_animado_page.dart';
+import 'animations/stopwatch_flutter/home.dart';
 
 void main() {
   runApp(const MyApp());
@@ -21,7 +22,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         textTheme: GoogleFonts.rubikTextTheme(Theme.of(context).textTheme),
       ),
-      home: SliderHomeScreen(),
+      home: StopWatchHomeScreen(),
     );
   }
 }
