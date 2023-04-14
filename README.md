@@ -1,10 +1,6 @@
 # flutter_animations
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this i![1](https://user-images.githubusercontent.com/108914401/231303226-8696278c-af50-4b59-bb01-13769f4e1d8b.png)
 ![2](https://user-images.githubusercontent.com/108914401/231303231-bd86bbb9-7373-4d6d-b268-6cdfa38c73db.png)
@@ -17,7 +13,7 @@ A few resources to get you started if this i![1](https://user-images.githubuserc
 ![9](https://user-images.githubusercontent.com/108914401/231303253-ff1f889b-cff4-4031-b896-736b4cf84b43.png)
 ![10](https://user-images.githubusercontent.com/108914401/231303255-15b567db-4875-4da0-ba24-ed233a43e6b1.png)
 ![11](https://user-images.githubusercontent.com/108914401/231303257-9172b66c-aa88-48af-8a8c-c0ec191901ed.png)
-s your first Flutter project:
+
 
 https://user-images.githubusercontent.com/108914401/232120024-b96dbffb-8785-4a8e-ac86-1449dc6780d9.mp4
 
@@ -72,4 +68,4 @@ https://user-images.githubusercontent.com/108914401/229864943-99138a1d-0a10-4f35
 
 https://user-images.githubusercontent.com/108914401/229864953-c6d39407-5939-437c-a025-2ccbc14421d3.mp4
 
-and a full API reference.
+
