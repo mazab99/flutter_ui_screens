@@ -1,11 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_screens/screens/slider/slider_home.dart';
+import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'animations/animated_container/src/pages/cuadrado_animado_page.dart';
+import 'animations/rate animations/rate_screen.dart';
 import 'animations/stopwatch_flutter/home.dart';
 
 void main() {
+  SystemChrome.setPreferredOrientations([
+    DeviceOrientation.portraitDown,
+    DeviceOrientation.portraitUp,
+  ]);
   runApp(const MyApp());
 }
 
@@ -22,7 +26,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         textTheme: GoogleFonts.rubikTextTheme(Theme.of(context).textTheme),
       ),
-      home: StopWatchHomeScreen(),
+      home: RateScreen(),
     );
   }
 }
