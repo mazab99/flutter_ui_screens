@@ -2,10 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 
+import 'animations/animated bottom nav/home_screen.dart';
 import 'animations/rate animations/rate_screen.dart';
 import 'animations/stopwatch_flutter/home.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([
     DeviceOrientation.portraitDown,
     DeviceOrientation.portraitUp,
@@ -26,7 +28,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         textTheme: GoogleFonts.rubikTextTheme(Theme.of(context).textTheme),
       ),
-      home: RateScreen(),
+      home: const AnimatedBottomWithsScreens(),
     );
   }
 }
