@@ -1,11 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
-
-import 'animations/3d car/screen/home_screen.dart';
-import 'animations/animated bottom nav/home_screen.dart';
-import 'animations/rate animations/rate_screen.dart';
-import 'animations/stopwatch_flutter/home.dart';
+import 'animations/flags/egypt_flag.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -22,14 +18,14 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Screens',
+      title: 'Mahmoud Azab',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: const Color(0xFF0e7cfe),
         primarySwatch: Colors.blue,
         textTheme: GoogleFonts.rubikTextTheme(Theme.of(context).textTheme),
       ),
-      home: const CarScreen(),
+      home: const EgyptFlag(),
     );
   }
 }
