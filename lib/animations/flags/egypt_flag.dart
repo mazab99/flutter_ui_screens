@@ -41,6 +41,7 @@ class _EgyptFlagState extends State<EgyptFlag> with TickerProviderStateMixin {
             animation: _controller,
             child: Image.asset(
               'assets/images/rl0mj2_large.png',
+
               fit: BoxFit.fitHeight,
               height: 100.0,
               width: 100.0,
