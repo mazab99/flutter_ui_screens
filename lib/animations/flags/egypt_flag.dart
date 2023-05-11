@@ -43,6 +43,7 @@ class _EgyptFlagState extends State<EgyptFlag> with TickerProviderStateMixin {
               'assets/images/rl0mj2_large.png',
 
               fit: BoxFit.fitHeight,
+
               height: 100.0,
               width: 100.0,
             ),
