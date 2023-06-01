@@ -1,6 +1,14 @@
 # flutter_animations
 
 
+https://github.com/mazab99/flutter_ui_screens/assets/108914401/c7bc4cc6-8426-4086-bb4f-b2aaa26adc02
+
+
+
+
+https://github.com/mazab99/flutter_ui_screens/assets/108914401/4919a7f7-6d8b-49fd-a633-9544799c8e8a
+
+
 
 A few resources to get you started if this i![1](https://user-images.githubusercontent.com/108914401/231303226-8696278c-af50-4b59-bb01-13769f4e1d8b.png)
 ![2](https://user-images.githubusercontent.com/108914401/231303231-bd86bbb9-7373-4d6d-b268-6cdfa38c73db.png)
