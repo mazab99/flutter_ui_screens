@@ -61,6 +61,33 @@ class CustomDialogExample extends StatelessWidget {
               ),
             ),
           ),
+          IconButton(
+            onPressed: () {
+              showModal(
+                context: context,
+                builder: (context) => CustomInfoDialog(
+                  alignmentCurve: Curves.easeInOutCubicEmphasized,
+                  sizeDuration: const Duration(milliseconds: 300),
+                  alignmentDuration: const Duration(milliseconds: 600),
+                  transitionDuration: const Duration(milliseconds: 300),
+                  reverseTransitionDuration: const Duration(milliseconds: 50),
+                  transitionBuilder: (child, animation) => FadeScaleTransition(
+                    animation: animation,
+                    child: child,
+                  ),
+                  defaultDecoration: BoxDecoration(
+                    color: Theme.of(context).colorScheme.surface,
+                    borderRadius: BorderRadius.circular(8.0),
+                  ),
+                  pageBuilder: CustomDialogPageBuilder(
+                    alignment: Alignment.topRight,
+                    builder: (context) => const AboutMePage(),
+                  ),
+                ),
+              );
+            },
+            icon: const Icon(Icons.more_vert),
+          ),
         ],
       ),
     );
