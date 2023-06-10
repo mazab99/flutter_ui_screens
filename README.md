@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/flutter masteryhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[flutter masteryhq](https://www.youtube.com/channel/UCy9PQQh1C48BujwnYteA-Vg)" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/flutter masteryhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mazab99" height="30" width="40" /></a>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
