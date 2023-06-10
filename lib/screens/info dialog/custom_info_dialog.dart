@@ -47,7 +47,6 @@ class CustomInfoDialog extends StatelessWidget {
               valueListenable: CustomDialogNavigator.of(context).pages,
               builder: (context, List<CustomDialogPageBuilder> value, child) {
                 final page = value.last;
-
                 return AnimatedAlign(
                   duration: alignmentDuration,
                   curve: alignmentCurve,

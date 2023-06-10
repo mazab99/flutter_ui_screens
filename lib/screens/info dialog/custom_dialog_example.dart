@@ -99,6 +99,19 @@ class AboutMePage extends StatelessWidget {
             const SizedBox(height: 20),
             GestureDetector(
               onTap: () {
+                showModalBottomSheet(
+                  context: context,
+                  builder: (context) {
+                    return Container(
+                      height: 200,
+                      width: 200,
+                      color: Colors.green,
+                    );
+                  },
+                ).then((value) {
+                  CustomDialogNavigator.of(context).close();
+                });
+
                 if (kDebugMode) {
                   print('Hello Mahmoud');
                 }
