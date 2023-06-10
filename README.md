@@ -1,11 +1,9 @@
 # flutter_animations
 
-<h3 align="center">A passionate frontend developer from India</h3>
+YOUTUBE 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/flutter masteryhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
-</p>
+https://www.youtube.com/channel/UCy9PQQh1C48BujwnYteA-Vg
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mazap64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazap64" height="30" width="40" /></a>
