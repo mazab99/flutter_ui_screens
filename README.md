@@ -4,6 +4,10 @@ YOUTUBE
 
 https://www.youtube.com/channel/UCy9PQQh1C48BujwnYteA-Vg
 
+
+<a href="https://www.youtube.com/channel/UCy9PQQh1C48BujwnYteA-Vg" target="blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="UCmG8oZFVHDAbOv5Q6m4Ykvg" height="22" width="22" /></a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mazap64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazap64" height="30" width="40" /></a>
