@@ -1,5 +1,9 @@
 # flutter_animations
 
+Follow me : 
+
+
+
 
 https://github.com/mazab99/flutter_ui_screens/assets/108914401/6ae8b833-f390-4752-a46d-66cb43345787
 
