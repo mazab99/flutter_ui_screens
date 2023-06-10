@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_ui_screens/screens/buttons/custom%20button/example.dart';
+import 'package:flutter_ui_screens/screens/info%20dialog/custom_dialog_example.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'animations/flags/egypt_flag.dart';
 
@@ -27,7 +28,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         textTheme: GoogleFonts.rubikTextTheme(Theme.of(context).textTheme),
       ),
-      home: const CustomButtonExample(),
+      home: const CustomDialogExample(),
     );
   }
 }
