@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_ui_screens/screens/floating%20dialog/moveable_dialog_example.dart';
-import 'package:flutter_ui_screens/screens/info%20dialog/custom_dialog_example.dart';
+import 'package:flutter_ui_screens/screens/loaders/full_eaample.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {
@@ -18,7 +17,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-
     return MaterialApp(
       title: 'Mahmoud Azab',
       debugShowCheckedModeBanner: false,
@@ -27,7 +25,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         textTheme: GoogleFonts.rubikTextTheme(Theme.of(context).textTheme),
       ),
-      home:  const MoveableDialogScreen(),
+      home: const LoadersExamples(),
     );
   }
 }
