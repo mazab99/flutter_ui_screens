@@ -24,6 +24,10 @@ https://www.youtube.com/channel/UCy9PQQh1C48BujwnYteA-Vg
 https://github.com/mazab99/flutter_ui_screens/assets/108914401/6ae8b833-f390-4752-a46d-66cb43345787
 
 
+https://github.com/mazab99/flutter_ui_screens/assets/108914401/629550b4-c690-4bc6-b16b-94c5d872959d
+
+
+
 
 https://github.com/mazab99/flutter_ui_screens/assets/108914401/ed21d4a1-fc86-452f-9c16-c5a24c1e30ec
 
