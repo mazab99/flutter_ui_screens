@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_ui_screens/painters/box_painter.dart';
 import 'package:flutter_ui_screens/painters/slice_painter.dart';
 import 'package:flutter_ui_screens/painters/multi_border.dart';
 import 'package:flutter_ui_screens/screens/loaders/full_eaample.dart';
@@ -28,7 +29,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         textTheme: GoogleFonts.rubikTextTheme(Theme.of(context).textTheme),
       ),
-      home:  const SlicePainterScreen()
+      home:  const BoxPainterScreen()
     );
   }
 }
