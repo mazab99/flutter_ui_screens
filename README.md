@@ -19,8 +19,22 @@ https://www.youtube.com/channel/UCy9PQQh1C48BujwnYteA-Vg
 </p>
 
 
-![Screenshot_1690619009](https://github.com/mazab99/flutter_ui_screens/assets/108914401/84e6d453-0cc6-4049-bb38-2af455e3450e)
 
+
+
+
+![Screenshot_1690619009](https://github.com/mazab99/flutter_ui_screens/assets/108914401/84e6d453-0cc6-4049-bb38-2af455e3450e)
+![Screenshot_1690620652](https://github.com/mazab99/flutter_ui_screens/assets/108914401/2dda6513-ee3b-44ee-9090-a6237b9f7351)
+
+
+
+
+![Screenshot_1690619812](https://github.com/mazab99/flutter_ui_screens/assets/108914401/c9d6ab5c-6e82-4106-bca2-9234f596448e)
+
+![Screenshot_1690620520](https://github.com/mazab99/flutter_ui_screens/assets/108914401/c0e8c651-f780-4a27-8fde-1cfab5fa809a)
+
+
+![Screenshot_1690620285](https://github.com/mazab99/flutter_ui_screens/assets/108914401/9463b62f-aad9-4719-bac7-d71417498585)
 
 https://github.com/mazab99/flutter_ui_screens/assets/108914401/6ae8b833-f390-4752-a46d-66cb43345787
 
