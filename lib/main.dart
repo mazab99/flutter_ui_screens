@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_ui_screens/painters/box_painter.dart';
-import 'package:flutter_ui_screens/painters/slice_painter.dart';
-import 'package:flutter_ui_screens/painters/multi_border.dart';
-import 'package:flutter_ui_screens/screens/loaders/full_eaample.dart';
-import 'package:flutter_ui_screens/screens/slider/custom_slider.dart';
+import 'package:flutter_ui_screens/screens/overlay%20container/screen.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {
@@ -29,7 +25,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         textTheme: GoogleFonts.rubikTextTheme(Theme.of(context).textTheme),
       ),
-      home:  const BoxPainterScreen()
+      home:  const OverLayScreen()
     );
   }
 }
